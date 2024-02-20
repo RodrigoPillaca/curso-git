@@ -1,0 +1,98 @@
+commit 60da7df1befe95a817284102d9520e9e0dad773a
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Tue Feb 20 14:59:56 2024 -0300
+
+    agregando 2 parrafos
+
+commit 3cdedc7ccd85fa4d044fcb36432ce8227fdb6c3d
+Merge: bad6874 3301f2c
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Tue Feb 20 14:56:40 2024 -0300
+
+    resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit bad68744fa3cd042b8a49ef04ed7018d7f8623a8
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Mon Feb 19 11:13:46 2024 -0300
+
+    agregando estaciones del año con fecha de inicio
+
+commit 3301f2ccaa1657fa7b5a26fa4262ab33fd8b722f
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Mon Feb 19 11:13:46 2024 -0300
+
+    agregando estaciones del año
+
+commit 28e58b2170a33c14cafa34433d40de460f9c0dcb
+Merge: fc2e406 402a663
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 15:25:50 2024 -0300
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 402a663bca1b18f01028594513dd7f364f4fe98c
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 15:15:16 2024 -0300
+
+    Agregando index.js al index.html
+
+commit fc2e40669e0eb367c2a252919068ed0e20e6a0db
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 15:10:23 2024 -0300
+
+    Agregando style al index.html
+
+commit b4c923d13c0ba93f92f7f1241987179b40d409a2
+Merge: 5fd1f38 e16b95c
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 14:56:44 2024 -0300
+
+    Merge branch 'js'
+
+commit e16b95ce12f0826038e6d5dc5a900204e16e5a32
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 14:50:53 2024 -0300
+
+    Creando index.js
+
+commit 5fd1f38de4147acadedbc39f9f0fa890c79dade7
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 14:42:20 2024 -0300
+
+    Creando style.css
+
+commit a4f5363fedce2786038f792f62fe73e9df0d6b16
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 14:37:32 2024 -0300
+
+    Creando index.html
+
+commit 2e2d334f72f43238c2527728a8faed55b07839c2
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 14:09:08 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 0e6a09cbcb1bb9fc5a94f9c6f18390484596cac3
+Author: RodrigoPillaca <108669990+RodrigoPillaca@users.noreply.github.com>
+Date:   Fri Feb 9 10:42:39 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 2e77abe8ca62ad05bb36353afb83f322d4f81007
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 10:22:22 2024 -0300
+
+    Agregando mas contenido al README
+
+commit f66117f51ec0787ca9d7d51e82003d4225a0ffd0
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 10:03:19 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit a8fed0584b412e75ded61f9b49d0e73527605a3d
+Author: Rodrigo Pillaca <rodrigopillaca10@gmail.com>
+Date:   Fri Feb 9 09:48:17 2024 -0300
+
+    Primer commit
